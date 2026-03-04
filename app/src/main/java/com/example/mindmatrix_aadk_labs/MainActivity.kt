@@ -17,8 +17,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    // Calling our Session 7 Screen
-                    CalculativeAppScreen()
+                    // Calling our Session 8 Screen
+                    ArtNavigationScreen()
                 }
             }
         }
