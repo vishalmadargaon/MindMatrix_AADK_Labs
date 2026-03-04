@@ -17,8 +17,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    // Calling the function from Session 2
-                    ComposeEssentialsScreen()
+                    // ⬇️ We changed this line to point to our new Session 3 file! ⬇️
+                    TextAndImageScreen()
                 }
             }
         }
