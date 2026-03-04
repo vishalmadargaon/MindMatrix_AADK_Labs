@@ -17,8 +17,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    // Calling our new Session 4 Screen!
-                    BusinessCardScreen()
+                    // Calling our new Session 5 Screen!
+                    StateInComposeScreen()
                 }
             }
         }
