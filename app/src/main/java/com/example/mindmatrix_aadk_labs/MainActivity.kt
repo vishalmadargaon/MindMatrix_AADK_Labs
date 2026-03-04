@@ -17,8 +17,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    // ⬇️ We changed this line to point to our new Session 3 file! ⬇️
-                    TextAndImageScreen()
+                    // Calling our new Session 4 Screen!
+                    BusinessCardScreen()
                 }
             }
         }
