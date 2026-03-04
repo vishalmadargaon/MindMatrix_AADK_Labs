@@ -17,8 +17,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    // Calling our Session 12 Screen
-                    ThemingAndAnimationScreen()
+                    // Calling our Final Session 13 Screen!
+                    ArchitectureScreen()
                 }
             }
         }
