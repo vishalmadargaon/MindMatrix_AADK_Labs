@@ -17,8 +17,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    // Calling our Session 6 Screen
-                    DeepDiveStateScreen()
+                    // Calling our Session 7 Screen
+                    CalculativeAppScreen()
                 }
             }
         }
