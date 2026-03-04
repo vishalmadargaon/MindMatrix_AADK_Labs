@@ -17,8 +17,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    // Calling our Session 11 Screen
-                    LazyColumnListScreen()
+                    // Calling our Session 12 Screen
+                    ThemingAndAnimationScreen()
                 }
             }
         }
